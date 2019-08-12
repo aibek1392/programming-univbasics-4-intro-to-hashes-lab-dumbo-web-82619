@@ -25,4 +25,6 @@ hash[key]
 
 def update_counting_hash(hash, key)
 [hash] = 0
+return hash
 end
+
