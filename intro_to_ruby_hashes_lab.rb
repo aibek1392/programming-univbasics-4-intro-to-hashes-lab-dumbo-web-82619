@@ -30,4 +30,4 @@ if hash[key] == 1
 else hash[key]
 end
 return hash
-
+end
