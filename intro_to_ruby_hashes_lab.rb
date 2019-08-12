@@ -29,5 +29,3 @@ if hash[key] == 1
   hash[key]+=1
 else  return hash
 end
-return hash
-end
